@@ -13,7 +13,7 @@
                 </h1> 
             </legend> 
             <h2 id="isi"></h2> 
-            <form action="tujuanoutput.php" method="post" id="form">
+            <form action="action.php" method="post" id="form">
             <div id="bagian"> 
                     <label for="namadepan">First Name :</label> 
                     <br> 
